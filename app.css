@@ -1,0 +1,57 @@
+textarea
+{
+    display: block;
+    border: 2px solid black;
+    /* width: 80%; */
+    height: 6rem;
+}
+#txt-output
+{
+    display: block;
+    border: 2px solid black;
+    /* width: 80%; */
+    height: 6rem;
+    /* padding: 1rem; */
+    margin-left: 1.5rem;
+}
+button
+{
+    padding: 1rem 2rem;
+    font-size: large;
+    font-family: cursive;
+    background-color: #f2c94c;
+    appearance: button;
+    /* margin-left: 3rem; */
+}
+header
+{
+    text-align: center;
+    font-size: 3rem;
+    background-color: #f2c94c;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    font-family: cursive;
+}
+textarea
+{
+    width: 80%;
+    height: 100px;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    margin: 2rem;
+}
+h2
+{
+    background-color: #f2c94c;
+    bottom: 0%;
+    padding: 1rem;
+    font-size: large;
+    font-family: cursive;
+    padding-bottom: 1rem;
+}
+p
+{
+    text-align: center;
+    font-family: cursive;
+    font-size: x-large;
+}
